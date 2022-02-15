@@ -1,2 +1,2 @@
-# Nafiz-Zilani-ID-Generator
+# ID-Generator
 Generator ID sequentially.
